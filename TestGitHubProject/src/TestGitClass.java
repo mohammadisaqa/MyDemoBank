@@ -2,7 +2,7 @@
 public class TestGitClass {
 
 	public static void sum() {
-		int a = 10;
+		int a = 10; // a holding 10
 		int b = 20;
 		int sum = a + b;
 	}
