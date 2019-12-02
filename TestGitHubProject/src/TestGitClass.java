@@ -1,6 +1,9 @@
 
 public class TestGitClass {
 
+	/**
+	 * this is a test git project
+	 */
 	public static void sum() {
 		int a = 10; // a holding 10
 		int b = 20; // b holding 20
