@@ -9,7 +9,7 @@ public class TestGitClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("hello nawshad");
+		System.out.println("hello nawshad, total sum will be");
 		TestGitClass.sum();
 
 	}
